@@ -1,0 +1,1 @@
+<img src="{{ asset('images\Logo-Polinema-(Politeknik-Negeri-Malang).png') }}" alt="Logo SIMAKTI" {{ $attributes }}>
