@@ -1,12 +1,8 @@
 # SIMAKTI (Sistem Informasi Manajemen Kegiatan TI)
 
 <p align="left">
-  <a href="https://github.com/dimasrizkyfebrian/simakti/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-  </a>
-  <a href="#">
     <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4.svg" alt="PHP 8.2+">
-  </a>
   <a href="https://laravel.com/docs/11.x">
     <img src="https://img.shields.io/badge/Laravel-11.x-FF2D20.svg" alt="Laravel 11">
   </a>
@@ -25,9 +21,7 @@
   <a href="https://daisyui.com">
     <img src="https://img.shields.io/badge/daisyUI-blueviolet" alt="daisyUI">
   </a>
-  <a href="https://www.mysql.com">
     <img src="https://img.shields.io/badge/MySQL-blue.svg" alt="MySQL">
-  </a>
 </p>
 
 SIMAKTI adalah aplikasi web yang dirancang untuk Jurusan Teknologi Informasi Politeknik Negeri Malang. Aplikasi ini berfungsi sebagai sistem terpusat untuk menggantikan pencatatan manual berbasis Excel, memungkinkan pengelolaan, pelacakan, dan pelaporan semua kegiatan, anggaran, dan realisasi keuangan jurusan secara efisien.
