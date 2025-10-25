@@ -1,27 +1,15 @@
 # SIMAKTI (Sistem Informasi Manajemen Kegiatan TI)
 
 <p align="left">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-    <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4.svg" alt="PHP 8.2+">
-  <a href="https://laravel.com/docs/11.x">
-    <img src="https://img.shields.io/badge/Laravel-11.x-FF2D20.svg" alt="Laravel 11">
-  </a>
-  <a href="https://livewire.laravel.com/docs/3.x">
-    <img src="https://img.shields.io/badge/Livewire-3.x-4E56A6.svg" alt="Livewire 3">
-  </a>
-  <a href="https://alpinejs.dev">
-    <img src="https://img.shields.io/badge/Alpine.js-3.x-8BC0D0.svg" alt="Alpine.js 3">
-  </a>
-  <a href="https://tailwindcss.com">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-3.x-06B6D4.svg" alt="Tailwind CSS 3">
-  </a>
-  <a href="https://vitejs.dev">
-    <img src="https://img.shields.io/badge/Vite-5.x-646CFF.svg" alt="Vite 5">
-  </a>
-  <a href="https://daisyui.com">
-    <img src="https://img.shields.io/badge/daisyUI-blueviolet" alt="daisyUI">
-  </a>
-    <img src="https://img.shields.io/badge/MySQL-blue.svg" alt="MySQL">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4.svg" alt="PHP 8.2+">
+  <img src="https://img.shields.io/badge/Laravel-11.x-FF2D20.svg" alt="Laravel 11">
+  <img src="https://img.shields.io/badge/Livewire-3.x-4E56A6.svg" alt="Livewire 3">
+  <img src="https://img.shields.io/badge/Alpine.js-3.x-8BC0D0.svg" alt="Alpine.js 3">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3.x-06B6D4.svg" alt="Tailwind CSS 3">
+  <img src="https://img.shields.io/badge/Vite-5.x-646CFF.svg" alt="Vite 5">
+  <img src="https://img.shields.io/badge/daisyUI-blueviolet" alt="daisyUI">
+  <img src="https://img.shields.io/badge/MySQL-blue.svg" alt="MySQL">
 </p>
 
 SIMAKTI adalah aplikasi web yang dirancang untuk Jurusan Teknologi Informasi Politeknik Negeri Malang. Aplikasi ini berfungsi sebagai sistem terpusat untuk menggantikan pencatatan manual berbasis Excel, memungkinkan pengelolaan, pelacakan, dan pelaporan semua kegiatan, anggaran, dan realisasi keuangan jurusan secara efisien.
